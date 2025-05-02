@@ -15,7 +15,7 @@ from nltk.tokenize import word_tokenize
 
 # Configuración general
 st.set_page_config(page_title="Análisis de Tuits", layout="wide")
-st.markdown("<h1 style='text-align: center;'>🔍 Análisis de Sentimiento y Predicción de Viralidad</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'> Análisis de Sentimiento y Predicción de Viralidad</h1>", unsafe_allow_html=True)
 
 # Cargar y limpiar el dataset
 @st.cache_data
