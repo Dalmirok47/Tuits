@@ -3,6 +3,6 @@ scikit-learn
 pandas
 numpy
 matplotlib
-plotly
-joblib
-re
+wordcloud
+nltk
+
